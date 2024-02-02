@@ -9,3 +9,5 @@ Koordinaten im Format: "[\<Longitude>, \<Latitude>, \<Altitude>]," in das coordi
 Script in Blender ausführen.
 ### Schritt 3: 
 3D-Objekt als obj exportieren
+### Schritt 4:
+obj-File in den Ordner Assets/DronePaths/ einfügen
